@@ -1,6 +1,7 @@
-### Hello, I am SeoSang  👋
+## Hello, I am SeoSang  👋
 
-
+   
+   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Spring Boot
 - 👯 I’m looking to collaborate on Creative Web Application
@@ -9,5 +10,5 @@
 - 📫 How to reach me: ddrrpg@naver.com
 - ⚡ Fun fact: I am not funnny maybe
 
-😙 Come Visit My [Blog](programming119.tistory.com)
+😙 Come Visit My [Blog](http://programming119.tistory.com)
 
