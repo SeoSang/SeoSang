@@ -2,7 +2,7 @@
 
    
    
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on React, Typescript
 - 🌱 I’m currently learning Spring Boot
 - 👯 I’m looking to collaborate on Creative Web Application
 - 🤔 I’m looking for help with Codding Beginner
