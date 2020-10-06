@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with Codding Beginner
 - 💬 Ask me about Anything~
 - 📫 How to reach me: ddrrpg@naver.com
-- ⚡ Fun fact: I am not funnny maybe
+- ⚡ Introduction Site : https://i-am-seo-sang.vercel.app/
 
 😙 Come Visit My [Blog](http://programming119.tistory.com)
 
