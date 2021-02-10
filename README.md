@@ -1,4 +1,4 @@
-# Hello, I am SeoSang  👋
+## Hello, I am SeoSang  👋
 
    
 - 🔭 I’m currently working on React, Typescript, Data analysis, Python
@@ -11,7 +11,7 @@
 
 😙 Come Visit My [Blog](http://programming119.tistory.com)
 
-# 안녕하세요, 개발자 서상혁입니다! 👋
+## 안녕하세요, 개발자 서상혁입니다! 👋
 
 - 🔭 현재 React, Typescript, Data analysis, Python, Kubernetes 등을 이용해서 업무 중입니다!
 - 🌱 현재 데이터분석과 Django, Kubernetes 등에 관심이 많고, 배우는 중입니다!
