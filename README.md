@@ -1,11 +1,10 @@
 ## Hello, I am SeoSang  👋
 
    
-- 🔭 I’m currently working on React, Typescript, Data analysis, Python
-- 🌱 I’m currently learning TDD, DDD, MSA, Infrastructure
-- 👯 I’m looking to collaborate on Creative Web Application
+- 🔭 We are working toward FE based on React and TypeScript, and we are also interested in application design and architecture.
+- 👯 I'm looking for people who want to work on a project based on a responsive web or who have ideas!
 - 🤔 I’m looking for help with Codding Beginner
-- 💬 Ask me about Anything~
+- 💬 Feel free to contact me anytime.
 - 📫 How to reach me: ddrrpg@naver.com
 - ⚡ Introduction Site : https://i-am-seo-sang.vercel.app/
 
@@ -13,11 +12,10 @@
 
 ## 안녕하세요, 개발자 서상혁입니다! 👋
 
-- 🔭 현재 React, Typescript, Data analysis, Python, Kubernetes 등을 이용해서 업무 중입니다!
-- 🌱 현재 Kubernetes, MSA 아키텍쳐, TDD, DDD 등에 관심이 많고 공부하는 중입니다!
-- 👯 반응형 웹을 기반으로한 프로젝트를 함께할 분을 구하는 중입니다!
-- 🤔 개발자 지망자 분들은 연락주시면 언제든 제가 되는 선에 한해서 으쌰으쌰 도와드릴 수 있습니다! (물론, 도움이 될지는 미지수..)
-- 💬 언제든 연락주세요 ㅎㅎ
+- 🔭 React와 Typescript를 기반으로 한 FE 쪽으로 일을 하고 있으며, 어플리케이션 설계 및 아키텍트에 대해서도 관심이 많습니다.
+- 👯 반응형 웹을 기반으로한 프로젝트를 함께할 분, 혹은 아이디어가 있으신 분들을 구하는 중입니다!
+- 🤔 개발에 관심있는 분들이면 언제든 제가 되는 선에 한해서 도와드리고 싶습니다 ㅎㅎ (물론, 도움이 될지는 저도 몰라용)
+- 💬 언제든 연락주세요 ~
 - 📫 이메일: ddrrpg@naver.com
 - ⚡ 개인 사이트 : https://i-am-seo-sang.vercel.app/
 
@@ -27,4 +25,5 @@
 
 - 카카오 추천팀 인턴 : 2020.12.28 ~ 2021.02.26
 - 네이버 쇼핑검색개발서비스 FE 인턴 : 2021.03.15 ~ 2021.05.14
+- 네이버 쇼핑검색개발서비스 FE 근무중 : 2021.07 ~
 
