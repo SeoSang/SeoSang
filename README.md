@@ -1,7 +1,7 @@
 ## Hello, I am SeoSang  👋
 
    
-- 🔭 We are working toward FE based on React and TypeScript, and we are also interested in application design and architecture.
+- 🔭 I am working toward FE based on React and TypeScript, and I also interested in application design and architecture.
 - 👯 I'm looking for people who want to work on a project based on a responsive web or who have ideas!
 - 🤔 I’m looking for help with Codding Beginner
 - 💬 Feel free to contact me anytime.
